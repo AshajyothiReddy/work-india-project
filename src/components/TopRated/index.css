@@ -1,0 +1,8 @@
+.bg-container{
+    background-color: darkslategray;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 30px 20px;
+}

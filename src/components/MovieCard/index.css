@@ -1,0 +1,26 @@
+.movie-card{
+    display: flex;
+    flex-direction: column;
+    height: 180px;
+    width: 150px;
+}
+
+.movie-image{
+    height: 160px;
+    width: 150px;
+    margin-bottom: 3px;
+}
+
+.movie-title{
+    font-size: 22px;
+    color: azure;
+    font-family: roboto;
+    text-align: center;
+}
+
+.movie-rating{
+    font-size: 22px;
+    color: azure;
+    font-family: roboto;
+    text-align: center;
+}

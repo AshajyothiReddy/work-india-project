@@ -1,0 +1,43 @@
+.navbar{
+    height: 10vh;
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.heading{
+    color: aliceblue;
+    font-size: 32px;
+    margin-left: 20px;
+}
+
+.nav-list{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: auto;
+}
+
+.nav-list-item{
+    color: azure;
+    font-size: 24px;
+    margin: 10px;
+}
+
+.search-bar{
+    height: 36px;
+    width: 20%;
+    background-color: azure;
+    border-radius: 4px;
+    color: black;
+}
+
+.search-btn{
+    height: 38px;
+    width: 70px;
+    background-color: azure;
+    color: black;
+    margin-right: 10px;
+}
